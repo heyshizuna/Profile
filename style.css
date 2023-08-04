@@ -641,7 +641,7 @@ span {
   }
   .navbar a {
     display: block;
-    width: 20%;
+    width: 40%;
     font-size: 2.1rem;
     margin: 3rem 0;
     transform: translateX(-20rem);
